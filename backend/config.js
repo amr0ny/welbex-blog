@@ -7,8 +7,8 @@ const config = {
         PORT: 5432,
         USERS_TABLE: 'users',
         POSTS_TABLE: 'posts',
-        USERNAME: 'alexalexdidit',
-        PASSWORD: 'rV&q8kH9Zd',
+        USERNAME: 'qwerty123',
+        PASSWORD: 'qwerty123',
         HASH: 256
     }
     
