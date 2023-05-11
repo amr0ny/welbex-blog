@@ -3,12 +3,12 @@ const config = {
     HOST: "localhost",
     db : {
         HOST: "localhost",
-        DB_NAME: "welbexblog_db",
-        PORT: 5432,
-        USERS_TABLE: 'users',
-        POSTS_TABLE: 'posts',
-        USERNAME: 'qwerty123',
-        PASSWORD: 'qwerty123',
+        DB_NAME: "welbexblog_db", //CHANGE THIS
+        PORT: 5432, //CHANGE THIS IF IT IS NECESSARY
+        USERS_TABLE: 'users', //DO NOT CHANGE
+        POSTS_TABLE: 'posts', //DO NOT CHANGE
+        USERNAME: 'qwerty123', //CHANGE THIS
+        PASSWORD: 'qwerty123', //CHANGE THIS
         HASH: 256
     }
     
