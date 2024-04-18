@@ -17,7 +17,7 @@ npm start
 ```
 Деплой клиента:
 ```bash
-св ./frontend
+cd ./frontend
 npm start
 ```
 Для настройки подключения к базе данных отредактируйте файл: `./backend/config.js`
